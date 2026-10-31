@@ -181,7 +181,7 @@ With extensions to support WorkloadIdentityFederation and ManagedServiceIdentity
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
 ## Contributing
 
